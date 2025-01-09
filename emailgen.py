@@ -3,8 +3,8 @@ import ssl
 import smtplib
 from emil import emaill
 
-sender="therehere876@gmail.com"
-password="kgnhfxsfqxnlunhk"
+sender="senders_Email"
+password="App_Genrate_Password"
 reciver=emaill
 
 subject="HELLO HAAMEEM"
